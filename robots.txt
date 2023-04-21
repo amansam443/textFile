@@ -1,0 +1,17 @@
+User-agent: *
+Sitemap: <DOMAIN>/sitemap.xml
+Sitemap: <DOMAIN>/news-sitemap.xml
+Sitemap: <DOMAIN>/sitemap_index.xml
+Sitemap: <DOMAIN>/category-sitemap.xml
+Sitemap: <DOMAIN>/image-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /h-upload/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /elect Link
+Disallow: /elect Menu
+Disallow: /Select Menu
+Disallow: /Select Link
